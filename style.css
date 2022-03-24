@@ -24,7 +24,6 @@ body {
     filter: blur(45px);
     border-radius: 50%;
     z-index: -1;
-
 }
 
 .main-container {
